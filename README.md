@@ -11,6 +11,10 @@ This document is for me to learn something new in a different way.
 > `lint errors`
 What does lint errors mean?
 
+> A lint error is a programming error, bug, or stylistic issue flagged by a lint tool. 
+
+> A lint tool is a static code analyzer that scans source code for issues. 
+
 ### `npm test`
 
 > Launches the `test runner` in the interactive watch mode.\
