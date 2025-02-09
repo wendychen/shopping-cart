@@ -27,6 +27,11 @@ What is the test runner?
 - It prevent flakiness. (Why?)
 - flaky test: Giving same testing program, testing environment and testing code, the test cases that sometimes passed, and sometimes failed.
 
+ref:
+https://create-react-app.dev/docs/running-tests/
+
+https://blog.castman.net/%E7%A0%94%E7%A9%B6/2016/06/06/flaky-tests.html
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
