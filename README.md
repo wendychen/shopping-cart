@@ -8,12 +8,14 @@ This document is for me to learn something new in a different way.
 
 ### `npm start`
 
-> `lint errors`
+- `lint errors`
 What does lint errors mean?
 
-> A lint error is a programming error, bug, or stylistic issue flagged by a lint tool. 
+- A lint error is a programming error, bug, or stylistic issue flagged by a lint tool. 
 
-> A lint tool is a static code analyzer that scans source code for issues. 
+- A lint tool is a static code analyzer that scans source code for issues.
+
+- The term "lint" in programming comes from an old tool called lint, which was originally developed in 1978 for the C programming language to analyze source code for errors. The name comes from "lint" (fuzz or tiny fibers) that accumulate in clothes—just like small mistakes or inconsistencies can accumulate in code.
 
 ### `npm test`
 
