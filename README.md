@@ -9,7 +9,8 @@ This document is for me to learn something new in a different way.
 ### `npm start`
 
 - `lint errors`
-What does lint errors mean?
+
+- What does lint errors mean?
 
 - A lint error is a programming error, bug, or stylistic issue flagged by a lint tool. 
 
