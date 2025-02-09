@@ -6,6 +6,10 @@ This document is for me to learn something new in a different way.
 
 I am thinking about using Vite, TypeScript and pnpm as the package manager to refactor this code.
 
+## Github
+
+loc = line of code
+
 ## Available Scripts
 
 ### `npm start`
