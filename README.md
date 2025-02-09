@@ -20,7 +20,13 @@ What does lint errors mean?
 > Launches the `test runner` in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-What is test runner?
+What is the test runner?
+
+> Jest is a Node-based runner.
+> The tests run in a Node environment, not in a real browser.
+> It enable fast iteration speed. (Need example)
+> It prevent flakiness. (Why?)
+> flaky test: Giving same testing program, testing environment and testing code, the test cases that sometimes passed, and sometimes failed.
 
 ### `npm run build`
 
