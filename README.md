@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This document is for me to learn something new in a different way.
 
+I am thinking about using Vite, TypeScript and pnpm as the package manager to refactor this code.
+
 ## Available Scripts
 
 ### `npm start`
@@ -17,6 +19,8 @@ This document is for me to learn something new in a different way.
 - A lint tool is a static code analyzer that scans source code for issues.
 
 - The term "lint" in programming comes from an old tool called lint, which was originally developed in 1978 for the C programming language to analyze source code for errors. The name comes from "lint" (fuzz or tiny fibers) that accumulate in clothes—just like small mistakes or inconsistencies can accumulate in code.
+
+- lint 絨毛
 
 ### `npm test`
 
