@@ -8,12 +8,12 @@ This document is for me to learn something new in a different way.
 
 ### `npm start`
 
-> lint errors
+> `lint errors`
 What does lint errors mean?
 
 ### `npm test`
 
-> Launches the test runner in the interactive watch mode.\
+> Launches the `test runner` in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 What is test runner?
