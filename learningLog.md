@@ -39,6 +39,8 @@ What is the test runner?
 https://www.browserstack.com/guide/what-is-test-runner
 
 - Jest is a Node-based runner.
+- Jest is made of TypeScript.
+- Jest cheat sheet: https://github.com/sapegin/jest-cheat-sheet
 - The tests run in a Node environment, not in a real browser.
 - It enable fast iteration speed. (Need example)
 - It prevent flakiness. (Why?)
