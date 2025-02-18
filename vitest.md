@@ -52,13 +52,18 @@ test('assert', () => {
 
 Type:
 - (message?: string) => never
-- 
+- <T>(actual: T, expected: T, message?: string, operator?: string) => never
 
 Explanation:
 - (message?: string)
   It means that the message as the parameter is optional to be a string.
 - => never
   It means that the function should never successfully return a value.
+
+- <T>
+  - Generic Type Parameter
+  - <T> means this function is generic, meaning it can work with any type.
+  - Whatever type `T` is, both `actual` and `expected` must have the same type.
 
 ```ts
 import { assert, test} from 'vitest';
