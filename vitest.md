@@ -24,3 +24,49 @@ Cypress is a browser-based test runner.
 Cypress is known as an end-to-end testing tool.
 
 Question: What does `end-to-end testing tool` mean?
+
+## API
+
+### Test API Reference
+### Mock Functions
+### Vi Utility
+### Expect
+### ExpectTypeOf
+### Assert
+
+Q: assert is like boolean?
+
+#### assert
+
+```ts
+import { assert, test } from 'vitest';
+
+test('assert', () => {
+  assert('foo' !== 'bar', 'food should not be equal to bar.');
+});
+```
+
+#### fail
+
+Type:
+- (message?: string) => never
+- 
+
+Explanation:
+- (message?: string)
+  It means that the message as the parameter is optional to be a string.
+- => never
+  It means that the function should never successfully return a value.
+
+```ts
+import { assert, test} from 'vitest';
+
+test('assert.fail', () => {
+  assert.fail('error message on failure');
+  assert.fail('foo', 'bar', 'foo is not bar', '===');
+});
+```
+
+### AssertType
+
+
