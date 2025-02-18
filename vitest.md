@@ -1,5 +1,7 @@
 # Vitest
 
+The document below, is that I mainly learn from [the official guide of Vitest](https://vitest.dev/guide/).
+
 Vitest is a kind of test runner. Test Runner is 測試執行器. There are some common test runner, such as:
 1. Jest
 2. Cypress
