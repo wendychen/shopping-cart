@@ -61,9 +61,9 @@ Explanation:
   It means that the function should never successfully return a value.
 
 - <T>
-  - Generic Type Parameter
-  - <T> means this function is generic, meaning it can work with any type.
-  - Whatever type `T` is, both `actual` and `expected` must have the same type.
+- Generic Type Parameter
+- <T> means this function is generic, meaning it can work with any type.
+- Whatever type `T` is, both `actual` and `expected` must have the same type.
 
 ```ts
 import { assert, test} from 'vitest';
